@@ -1,0 +1,7 @@
+{
+  "buildCommand": "echo 'No build required for static HTML'",
+  "outputDirectory": ".",
+  "devCommand": "python3 -m http.server 3000",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
