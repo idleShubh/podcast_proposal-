@@ -1,7 +1,5 @@
 {
-  "buildCommand": "echo 'No build required for static HTML'",
-  "outputDirectory": ".",
-  "devCommand": "python3 -m http.server 3000",
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false
 }
