@@ -1,0 +1,17 @@
+{
+  "name": "podcast-proposal",
+  "version": "1.0.0",
+  "description": "Agentic Engineering — Guest Proposal",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static HTML site - no build required'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
